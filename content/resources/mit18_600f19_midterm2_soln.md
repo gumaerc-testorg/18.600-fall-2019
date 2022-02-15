@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-600-probability-and-random-variables-fall-2019/1e72ee6424087be833d8bd81346ceda5_MIT18_600F19_midterm2_soln.pdf
+file: /media/courses/18-600-probability-and-random-variables-fall-2019/1e72ee6424087be833d8bd81346ceda5_MIT18_600F19_midterm2_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Fall 2019 18.600 Midterm Exam 2 Solutions
 uid: 1e72ee64-2408-7be8-33d8-bd81346ceda5

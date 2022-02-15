@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 ---
@@ -84,28 +86,6 @@ Curriculum Information
 ### Offered
 
 Every semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large lecture hall with tiered seats.]({{< resource_file 69310f69-f5b9-86cb-6aaa-caca6c6883e4 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Classes were held in a large lecture hall with 425 tiered tablet armchairs, multiple blackboards, and an A/V system.
-    
-*   ![A small lecture hall with tiers of seats.]({{< resource_file a518203b-1849-9df1-88a2-561b49f713bb >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in smaller lecture halls like the one pictured, with seating for about 120–200 students, AV equipment, and blackboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
