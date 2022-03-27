@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e01de6f1-fa18-fe29-a66a-595f81644ad7
 resourcetype: Document
 title: '18.600 Probability and Random Variables F2019: Supplementary notes '
 uid: 7eddbfb7-6e7a-7bd8-01b4-44021949822b

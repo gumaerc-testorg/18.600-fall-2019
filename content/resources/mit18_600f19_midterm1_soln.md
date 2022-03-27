@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 404e31ed-65f7-9ae3-39b0-66e31da833f7
 resourcetype: Document
 title: Fall 2019 18.600 Midterm Exam 1 Solutions
 uid: 62e1b919-e9f7-bf20-8a94-3bde0d0dc607

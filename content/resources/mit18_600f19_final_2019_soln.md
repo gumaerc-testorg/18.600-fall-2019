@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 404e31ed-65f7-9ae3-39b0-66e31da833f7
 resourcetype: Document
 title: Spring 2019 18.600 Final Exam Solutions
 uid: cd2a640c-ca32-b991-9fcd-999e4ecc9f0f

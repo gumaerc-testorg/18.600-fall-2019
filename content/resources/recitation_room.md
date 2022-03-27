@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 resourcetype: Image
 title: recitation_room.jpg
 uid: a518203b-1849-9df1-88a2-561b49f713bb

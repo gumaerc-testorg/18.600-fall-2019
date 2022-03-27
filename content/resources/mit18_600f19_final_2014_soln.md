@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 404e31ed-65f7-9ae3-39b0-66e31da833f7
 resourcetype: Document
 title: Spring 2014 18.440 Final Exam Solutions
 uid: 86213d16-b699-fe0b-35b5-d65130883667

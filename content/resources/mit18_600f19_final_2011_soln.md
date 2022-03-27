@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 404e31ed-65f7-9ae3-39b0-66e31da833f7
 resourcetype: Document
 title: Spring 2011 18.440 Final Exam Solutions
 uid: 674e6e0b-b837-3d1e-97b9-f0e30faeb4c0

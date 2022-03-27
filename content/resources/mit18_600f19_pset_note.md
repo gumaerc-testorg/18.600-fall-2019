@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 094b223d-dec4-382c-8969-c5c3f5977ca5
 resourcetype: Document
 title: "18.600 Probability and Random Variables F2019, Doob\u2019s Optional Stopping\
   \ Theorem"

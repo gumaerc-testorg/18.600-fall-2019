@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 404e31ed-65f7-9ae3-39b0-66e31da833f7
 resourcetype: Document
 title: 18.600 Practice Final Exam Partial Solutions
 uid: aecf77a7-a7d6-a3b0-cb0b-d55f29a89204
