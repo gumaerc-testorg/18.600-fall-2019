@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 ---
@@ -44,13 +45,13 @@ Below, Professor Scott Sheffield describes various aspects of how he teaches _18
 
 **OCW:** In your materials, you note that “we will see many problems with applications; but each problem is the beginning of a conversation, not the end.” Tell us about the role of applications in the course, and the kinds of conversations you hope they will inspire.
 
-**Prof. Sheffield:** Yes, the world is full of places where probability can be applied, but the simple probabilistic model is seldom a perfect description of real life. So there’s room to debate the answers that probability provides, to inform probabilistic models with new data, to frame entire areas in different ways. If other educators are interested in my approach, they can take a look at the [10 problem sets]({{< baseurl >}}/pages/assignments) (or the three exams) posted on OCW.
+**Prof. Sheffield:** Yes, the world is full of places where probability can be applied, but the simple probabilistic model is seldom a perfect description of real life. So there’s room to debate the answers that probability provides, to inform probabilistic models with new data, to frame entire areas in different ways. If other educators are interested in my approach, they can take a look at the {{< resource_link 094b223d-dec4-382c-8969-c5c3f5977ca5 "10 problem sets" >}} (or the three exams) posted on OCW.
 
 **OCW:** You note that this course is in some ways even more advanced than ones that come after it, and that students may confront problems they don’t know how to do. How do you help them persevere when encountering academic challenges?
 
 **Prof. Sheffield:** I encourage students to take advantage of office hours, recitations, collaboration with friends, lecture slides, and anything else that helps them master the material.  It is definitely a challenging experience. People who learn algebra and calculus through the standard curriculum learn to think a certain way, and probability definitely requires new ways of thinking.
 
-**OCW:** You note that “math fluency requires knowing at least a few things by heart.” What is the [story sheet (PDF)]({{< baseurl >}}/resources/mit18_600f19_storysheet) and how does it help students develop math fluency?
+**OCW:** You note that “math fluency requires knowing at least a few things by heart.” What is the {{< resource_link 24e64f98-870b-47b6-288d-e02fc7b687c0 "story sheet (PDF)" >}} and how does it help students develop math fluency?
 
 **Prof. Sheffield:** Well, there is this ongoing debate in education about the extent to which exams should be “open book” and whether students should have access to very detailed formula sheets while taking the exams. And I don't claim to have a perfect all-purpose answer. Different approaches make sense for different subjects.
 
@@ -75,7 +76,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
+[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
@@ -116,7 +117,7 @@ Student Information
 
 ### Breakdown by Year
 
-A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take _[18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)_ (the prerequisite for 18.600) in their first semester.
+A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take _[18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)_ (the prerequisite for 18.600) in their first semester.
 
 ### Breakdown by Major
 
@@ -146,7 +147,7 @@ Recitations, led by teaching assistants, met 1 time per week for 1 hour per sess
 Out of Class
 ------------
 
-Outside of class time, students worked to complete [problem sets]({{< baseurl >}}/pages/assignments) and study for the [midterms and final exam]({{< baseurl >}}/pages/exams).
+Outside of class time, students worked to complete {{< resource_link 094b223d-dec4-382c-8969-c5c3f5977ca5 "problem sets" >}} and study for the {{< resource_link 404e31ed-65f7-9ae3-39b0-66e31da833f7 "midterms and final exam" >}}.
 
 Course Team Roles
 -----------------
