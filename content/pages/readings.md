@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings from the assigned textbook
+  and links to additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: a6194f6a-a583-cc0b-fcf4-348f46b0c819
 ---
@@ -38,7 +39,7 @@ READINGS
 Permutations and combinations
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 1.1–1.3 (also [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal's_triangle), see also correspondence with Fermat: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fermat and Pascal on Probability (PDF)](http://www.york.ac.uk/depts/maths/histstat/pascal.pdf))
+Sections 1.1–1.3 (also [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal's_triangle), see also correspondence with Fermat: [Fermat and Pascal on Probability (PDF)](http://www.york.ac.uk/depts/maths/histstat/pascal.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -434,7 +435,7 @@ Sections 9.3–9.4
 Martingales and the optional stopping time theorem
 {{< tdclose >}}
 {{< tdopen >}}
-[Martingales](http://en.wikipedia.org/wiki/Martingale_%28probability_theory%29), [Optional stopping time theorem](http://en.wikipedia.org/wiki/Optional_stopping_theorem), and {{< resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" >}} (see also [prediction market plots](http://intrade.com/))
+[Martingales](http://en.wikipedia.org/wiki/Martingale_%28probability_theory%29), [Optional stopping time theorem](http://en.wikipedia.org/wiki/Optional_stopping_theorem), and {{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}} (see also [prediction market plots](http://intrade.com/))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -446,7 +447,7 @@ Martingales and the optional stopping time theorem
 Martingales and risk neutral probability
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" >}}
+{{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -458,7 +459,7 @@ Martingales and risk neutral probability
 Risk neutral probability and Black-Scholes
 {{< tdclose >}}
 {{< tdopen >}}
-[Black-Scholes](http://en.wikipedia.org/wiki/Black%E2%80%93Scholes) and {{< resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" >}} (look up options quotes at the [Chicago Board Options Exchange](http://www.cboe.com/))
+[Black-Scholes](http://en.wikipedia.org/wiki/Black%E2%80%93Scholes) and {{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}} (look up options quotes at the [Chicago Board Options Exchange](http://www.cboe.com/))
 {{< tdclose >}}
 
 {{< trclose >}}

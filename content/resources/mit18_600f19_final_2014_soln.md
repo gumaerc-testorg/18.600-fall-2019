@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-600-probability-and-random-variables-fall-2019/86213d16b699fe0b35b5d65130883667_MIT18_600F19_final_2014_soln.pdf
+file: /courses/18-600-probability-and-random-variables-fall-2019/86213d16b699fe0b35b5d65130883667_MIT18_600F19_final_2014_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
