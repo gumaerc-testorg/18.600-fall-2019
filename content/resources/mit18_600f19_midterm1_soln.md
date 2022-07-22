@@ -5,6 +5,7 @@ file: /courses/18-600-probability-and-random-variables-fall-2019/62e1b919e9f7bf2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
