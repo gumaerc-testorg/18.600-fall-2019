@@ -1,16 +1,19 @@
 ---
 content_type: page
+description: In this section Professor Scott Sheffield describes various aspects of
+  how he teaches 18.600 Probability and Random Variables.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-Below, Professor Scott Sheffield describes various aspects of how he teaches _18.600 Probability and Random Variables__._
+Below, Professor Scott Sheffield describes various aspects of how he teaches _18.600 Probability and Random Variables._
 
 **OCW:** How would you describe what probability is to someone unfamiliar with the topic? And why does it matter?
 
@@ -42,13 +45,13 @@ Below, Professor Scott Sheffield describes various aspects of how he teaches _18
 
 **OCW:** In your materials, you note that “we will see many problems with applications; but each problem is the beginning of a conversation, not the end.” Tell us about the role of applications in the course, and the kinds of conversations you hope they will inspire.
 
-**Prof. Sheffield:** Yes, the world is full of places where probability can be applied, but the simple probabilistic model is seldom a perfect description of real life. So there’s room to debate the answers that probability provides, to inform probabilistic models with new data, to frame entire areas in different ways. If other educators are interested in my approach, they can take a look at the [10 problem sets]({{< baseurl >}}/pages/assignments) (or the three exams) posted on OCW.
+**Prof. Sheffield:** Yes, the world is full of places where probability can be applied, but the simple probabilistic model is seldom a perfect description of real life. So there’s room to debate the answers that probability provides, to inform probabilistic models with new data, to frame entire areas in different ways. If other educators are interested in my approach, they can take a look at the {{% resource_link 094b223d-dec4-382c-8969-c5c3f5977ca5 "10 problem sets" %}} (or the three exams) posted on OCW.
 
 **OCW:** You note that this course is in some ways even more advanced than ones that come after it, and that students may confront problems they don’t know how to do. How do you help them persevere when encountering academic challenges?
 
 **Prof. Sheffield:** I encourage students to take advantage of office hours, recitations, collaboration with friends, lecture slides, and anything else that helps them master the material.  It is definitely a challenging experience. People who learn algebra and calculus through the standard curriculum learn to think a certain way, and probability definitely requires new ways of thinking.
 
-**OCW:** You note that “math fluency requires knowing at least a few things by heart.” What is the [story sheet (PDF)]({{< baseurl >}}/resources/mit18_600f19_storysheet) and how does it help students develop math fluency?
+**OCW:** You note that “math fluency requires knowing at least a few things by heart.” What is the {{% resource_link 24e64f98-870b-47b6-288d-e02fc7b687c0 "story sheet (PDF)" %}} and how does it help students develop math fluency?
 
 **Prof. Sheffield:** Well, there is this ongoing debate in education about the extent to which exams should be “open book” and whether students should have access to very detailed formula sheets while taking the exams. And I don't claim to have a perfect all-purpose answer. Different approaches make sense for different subjects.
 
@@ -68,75 +71,43 @@ And then the next semester we throw it all away and start over again. Each class
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
+[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
-*   GIR ![](/images/educator/icon-question-gir.png)
-*   REST ![](/images/educator/icon-question-rest.png)
-*   18.600 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
+- GIR ![](/images/educator/icon-question-gir.png)
+- REST ![](/images/educator/icon-question-rest.png)
+- 18.600 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
 
 ### Offered
 
 Every semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large lecture hall with tiered seats.]({{< resource_file 69310f69-f5b9-86cb-6aaa-caca6c6883e4 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Classes were held in a large lecture hall with 425 tiered tablet armchairs, multiple blackboards, and an A/V system.
-    
-*   ![A small lecture hall with tiers of seats.]({{< resource_file a518203b-1849-9df1-88a2-561b49f713bb >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in smaller lecture halls like the one pictured, with seating for about 120–200 students, AV equipment, and blackboards.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
 - 20% Ten problem sets
 - 40% Two midterm exams
 - 40% Final exam
 
-{{< tdclose >}}
+## Student Information
 
-{{< trclose >}}
+### Enrollment
 
-{{< tableclose >}}
-
-Student Information
--------------------
-
-![152 students took this course when it was taught in Fall 2019.]({{< resource_file bddf5210-20a6-2574-485c-febd5a21097e >}})
+152 students
 
 ### Breakdown by Year
 
-A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take _[18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)_ (the prerequisite for 18.600) in their first semester.
+A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010) (the prerequisite for 18.600) in their first semester.
 
 ### Breakdown by Major
 
@@ -148,35 +119,28 @@ Many but not all of the students have learned some probability and combinatorics
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 3 times per week for 1 hour per session; 39 sessions total; mandatory attendance.
 
-Recitation
-----------
+### Recitation
 
 Recitations, led by teaching assistants, met 1 time per week for 1 hour per session; 13 sessions total; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
-Outside of class time, students worked to complete [problem sets]({{< baseurl >}}/pages/assignments) and study for the [midterms and final exam]({{< baseurl >}}/pages/exams).
+Outside of class time, students worked to complete {{% resource_link 094b223d-dec4-382c-8969-c5c3f5977ca5 "problem sets" %}} and study for the {{% resource_link 404e31ed-65f7-9ae3-39b0-66e31da833f7 "midterms and final exam" %}}.
 
-Course Team Roles
------------------
+## Course Team Roles
 
-Professor Sheffield
--------------------
+### Professor Sheffield
 
 Delivering lectures; conducting office hours two hours per week
 
-Teaching Assistants (3) 
-------------------------
+### Teaching Assistants (3) 
 
 Leading recitations; conducting office hours two hours per week
