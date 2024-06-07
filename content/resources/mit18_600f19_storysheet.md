@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-600-probability-and-random-variables-fall-2019/24e64f98870b47b6288de02fc7b687c0_MIT18_600F19_storysheet.pdf
+file_size: 241782
 file_type: application/pdf
 learning_resource_types:
 - Exams
