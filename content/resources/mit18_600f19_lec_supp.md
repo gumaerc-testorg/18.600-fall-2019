@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-600-probability-and-random-variables-fall-2019/7eddbfb76e7a7bd801b444021949822b_MIT18_600F19_lec_supp.pdf
+file: /ol-ocw-studio-app/courses/18-600-probability-and-random-variables-fall-2019/7eddbfb76e7a7bd801b444021949822b_MIT18_600F19_lec_supp.pdf
 file_size: 427592
 file_type: application/pdf
 learning_resource_types:
