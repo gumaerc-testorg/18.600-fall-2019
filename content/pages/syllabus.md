@@ -14,7 +14,7 @@ Lectures: 3 sessions / week, 1 hour / session
 
 ## Prerequisite
 
-[*18.02 Multivariable Calculus*](https://ocw-studio.odl.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010)
+[*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 
 ## Course Description
 
