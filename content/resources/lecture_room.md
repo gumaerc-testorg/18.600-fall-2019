@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-600-probability-and-random-variables-fall-2019/69310f69f5b986cb6aaacaca6c6883e4_lecture_room.jpg
+file: /ol-ocw-studio-app/courses/18-600-probability-and-random-variables-fall-2019/69310f69f5b986cb6aaacaca6c6883e4_lecture_room.jpg
 file_size: 76944
 file_type: image/jpeg
 image_metadata:
