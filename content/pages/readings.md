@@ -39,7 +39,7 @@ READINGS
 Permutations and combinations
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 1.1–1.3 (also [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal's_triangle), see also correspondence with Fermat: [Fermat and Pascal on Probability (PDF)](http://www.york.ac.uk/depts/maths/histstat/pascal.pdf))
+Sections 1.1–1.3 (also {{% resource_link "5199635c-cab1-4240-8882-8e0ba047e6eb" "Pascal's triangle" %}}, see also correspondence with Fermat: {{% resource_link "cf40a36b-3692-4704-87e1-7808deb4eb27" "Fermat and Pascal on Probability (PDF)" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Sections 1.1–1.3 (also [Pascal's triangle](https://en.wikipedia.org/wiki/Pasca
 Multinomial coefficients and more counting
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 1.4–1.5 (see [Pascal's pyramid](http://en.wikipedia.org/wiki/Pascal's_pyramid))
+Sections 1.4–1.5 (see {{% resource_link "58e63ba9-b993-4a7e-af57-f0b903d92c30" "Pascal's pyramid" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Sections 2.1–2.2
 Axioms of probability
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 2.3–2.4 (see [Paulos' NYT article](http://opinionator.blogs.nytimes.com/2010/10/24/stories-vs-statistics/) and [conjunction fallacy blog](https://fs.blog/2016/09/bias-conjunction-fallacy/) and [famous hat problem](http://mathforum.org/library/drmath/view/56505.html))
+Sections 2.3–2.4 (see {{% resource_link "e96c826a-205b-4d89-9d98-9704d61ebb23" "Paulos' NYT article" %}} and {{% resource_link "cca98be6-a154-4684-b920-750c069d9e8c" "conjunction fallacy blog" %}} and {{% resource_link "3c4e5a81-450b-4400-bd4a-78981f232911" "famous hat problem" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Sections 2.3–2.4 (see [Paulos' NYT article](http://opinionator.blogs.nytimes.
 Probability and equal likelihood
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 2.5–2.7 (and [a bit more history](http://www.leidenuniv.nl/fsw/verduin/stathist/sh_17.htm))
+Sections 2.5–2.7 (and {{% resource_link "3b3c65b7-2747-4f90-9319-fe948db4e804" "a bit more history" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ Sections 2.5–2.7 (and [a bit more history](http://www.leidenuniv.nl/fsw/verdui
 Conditional probabilities
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 3.1–3.2 (and [Conditional risk](http://xkcd.com/795/))
+Sections 3.1–3.2 (and {{% resource_link "fb4590f3-a4f2-4d01-b93e-a4cac40b6f74" "Conditional risk" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Sections 4.1–4.2
 Expectations of discrete random variables
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 4.3–4.4 (and, for non-discrete setting, examples of [non-measurable sets](http://en.wikipedia.org/wiki/Non-measurable_set), as in the [Vitali construction](http://en.wikipedia.org/wiki/Vitali_set))
+Sections 4.3–4.4 (and, for non-discrete setting, examples of {{% resource_link "4f80bbaa-54ad-4e35-8d5d-2d2a0434ae42" "non-measurable sets" %}}, as in the {{% resource_link "f75437a2-ab8a-4f38-83f2-19f38a9faccc" "Vitali construction" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +159,7 @@ Section 4.5
 Binomial random variables, repeated trials and the so-called modern portfolio theory
 {{< tdclose >}}
 {{< tdopen >}}
-Section 4.6 (and the so-called [modern portfolio theory](http://en.wikipedia.org/wiki/Modern_portfolio_theory))
+Section 4.6 (and the so-called {{% resource_link "a53b2e95-c075-4632-933e-aa6d2c1ea9dc" "modern portfolio theory" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ Section 4.6 (and the so-called [modern portfolio theory](http://en.wikipedia.org
 Poisson random variables
 {{< tdclose >}}
 {{< tdopen >}}
-Section 4.7 (and [Soccer goal probabilities: Poisson vs actual distribution](https://blog.annabet.com/soccer-goal-probabilities-poisson-vs-actual-distribution/))
+Section 4.7 (and {{% resource_link "d9f038e2-b87e-4a9a-9753-0103b20e8c10" "Soccer goal probabilities: Poisson vs actual distribution" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,7 +399,7 @@ Section 8.3
 Strong law of large numbers and Jensen's inequality
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 8.4–8.5 (see also [the truncation-based proof on Terry Tao's blog](http://terrytao.wordpress.com/2008/06/18/the-strong-law-of-large-numbers/) and the [characteristic function proof of the weak law](http://en.wikipedia.org/wiki/Proof_of_the_law_of_large_numbers))
+Sections 8.4–8.5 (see also {{% resource_link "7d6141f1-8d33-42d8-88c0-6657d8fb70ea" "the truncation-based proof on Terry Tao's blog" %}} and the {{% resource_link "6c9aee38-aaa2-4220-b1f0-6d8733b0e461" "characteristic function proof of the weak law" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -435,7 +435,7 @@ Sections 9.3–9.4
 Martingales and the optional stopping time theorem
 {{< tdclose >}}
 {{< tdopen >}}
-[Martingales](http://en.wikipedia.org/wiki/Martingale_%28probability_theory%29), [Optional stopping time theorem](http://en.wikipedia.org/wiki/Optional_stopping_theorem), and {{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}} (see also [prediction market plots](http://intrade.com/))
+{{% resource_link "2c26ee7e-5197-4e76-947a-4d15f1dbe10b" "Martingales" %}}, {{% resource_link "492399a8-bf43-43ac-9fb7-b366070e7ca1" "Optional stopping time theorem" %}}, and {{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}} (see also {{% resource_link "02768117-5660-4674-94a8-19a9af970f85" "prediction market plots" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -459,7 +459,7 @@ Martingales and risk neutral probability
 Risk neutral probability and Black-Scholes
 {{< tdclose >}}
 {{< tdopen >}}
-[Black-Scholes](http://en.wikipedia.org/wiki/Black%E2%80%93Scholes) and {{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}} (look up options quotes at the [Chicago Board Options Exchange](http://www.cboe.com/))
+{{% resource_link "171f0e8d-7d7d-4ce2-888c-dee5d0c10d6d" "Black-Scholes" %}} and {{% resource_link 7eddbfb7-6e7a-7bd8-01b4-44021949822b "Martingales, risk neutral probability, and Black-Scholes option pricing (PDF)" %}} (look up options quotes at the {{% resource_link "9de3fb57-996f-4d7e-bff2-52f5097bd8a5" "Chicago Board Options Exchange" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
