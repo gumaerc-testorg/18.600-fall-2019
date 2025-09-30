@@ -67,7 +67,7 @@ And then the next semester we throw it all away and start over again. Each class
 
 **OCW:** What advice do you have for educators who may be using your materials to teach remotely?
 
-**Prof. Sheffield:** Teaching a class online involves a whole set of logistical and practical challenges, and I’m still learning myself how best to do that. As far as learning online goes, I would say that Google and Wikipedia are amazingly good resources for a lot of material in mathematics. Students who become adept at finding things there (along with more scholarly works at [scholar.google.com](http://scholar.google.com)) can really learn in ways that previous generations could not. When working through a class on OCW or working through a textbook, it is really often quite helpful to supplement the education with periodic internet searches.
+**Prof. Sheffield:** Teaching a class online involves a whole set of logistical and practical challenges, and I’m still learning myself how best to do that. As far as learning online goes, I would say that Google and Wikipedia are amazingly good resources for a lot of material in mathematics. Students who become adept at finding things there (along with more scholarly works at {{% resource_link "15be3b11-a02f-47a0-92ad-c8cfc0312a22" "scholar.google.com" %}}) can really learn in ways that previous generations could not. When working through a class on OCW or working through a textbook, it is really often quite helpful to supplement the education with periodic internet searches.
 
 {{< /div-with-class >}}
 
@@ -81,7 +81,7 @@ And then the next semester we throw it all away and start over again. Each class
 
 - GIR ![](/images/educator/icon-question-gir.png)
 - REST ![](/images/educator/icon-question-rest.png)
-- 18.600 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
+- 18.600 can be applied toward a {{% resource_link "5356a9df-5ec6-40d9-993f-6771fb0fb594" "Bachelor of Science in Mathematics" %}}, but is not required.
 
 ### Offered
 
