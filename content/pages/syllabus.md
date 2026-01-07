@@ -14,7 +14,7 @@ Lectures: 3 sessions / week, 1 hour / session
 
 ## Prerequisite
 
-{{% resource_link "3a086274-810d-43a2-97a1-8d878c82e3a0" "*18.02 Multivariable Calculus*" %}}
+[*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 
 ## Course Description
 
@@ -32,7 +32,7 @@ Ross, Sheldon. *A First Course in Probability*. 8th ed. Pearson Prentice Hall, 2
 
 ### A Free and Fun-to-Read Book
 
-{{% resource_link "b9fb8d84-b67f-49e7-94f6-8433806ba308" "Introduction to Probability (PDF - 3.1MB)" %}} by Charles Grinstead and J. Laurie Snell.
+[Introduction to Probability (PDF - 3.1MB)](https://math.dartmouth.edu/~prob/prob/prob.pdf) by Charles Grinstead and J. Laurie Snell.
 
 ## Problem Sets
 
